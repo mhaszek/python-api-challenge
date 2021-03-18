@@ -1,0 +1,5 @@
+City_ID,City,Cloudiness,Country,Date,Humidity,Lat,Lng,Max Temp,Wind Speed
+0,margate,100,GB,1616043918,84,51.3813,1.3862,43.0,4.0
+1,port elizabeth,75,ZA,1616043913,94,-33.918,25.5701,69.8,5.75
+2,ushuaia,75,AR,1616043919,66,-54.8,-68.3,53.6,5.75
+3,qaanaaq,8,GL,1616043919,99,77.484,-69.3632,-18.0,1.41
