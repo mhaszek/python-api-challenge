@@ -85,3 +85,8 @@ NOTE: both files require api keys for OpenWeatherMap API and Google Places API.
  * numpy 
  * gmaps
  * citipy
+
+
+#
+
+#### Contact: mil.haszek@gmail.com
